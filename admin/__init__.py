@@ -1,0 +1,1 @@
+from admin.admin import register_admin_handlers
